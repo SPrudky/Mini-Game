@@ -12,6 +12,21 @@ namespace Mini_Game
             Random random = new Random();
             int nahcislo = random.Next( 1, 1000 );
             Console.WriteLine(" Hádání čísel");
+            Console.WriteLine("-------------------------------------------------");
+            Console.WriteLine("Vyber si režim");
+            Console.WriteLine("1.(1-10)");
+            Console.WriteLine("2.(1-100");
+            Console.WriteLine("3.(1-1000");
+
+                
+                
+           
+            
+            
+            
+            
+            
+            
             
             Console.WriteLine($"Myslím si číslo od 1 do 1000");
             
